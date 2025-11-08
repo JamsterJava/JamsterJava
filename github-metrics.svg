@@ -36,8 +36,8 @@
                             <div class="diff-box deleted"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
-                                <span class="added"> +2.96k</span>
-                                <span class="deleted"> -1.74k</span>
+                                <span class="added"> +3.09k</span>
+                                <span class="deleted"> -1.79k</span>
                             </div>
                             <span> </span>
                         </div>
@@ -124,8 +124,8 @@
                                 <text fill="currentColor" x="-9" dy="0.32em">−1.5k</text>
                             </g>
                         </g>
-                        <path d="M39,140.5L211.286,140.5L268.714,140.5L326.143,140.5L383.571,140.5L441,140.5L441,119.602L383.571,110.586L326.143,107.636L268.714,110.164L211.286,5L39,54.633Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L211.286,140.5L268.714,140.5L326.143,140.5L383.571,140.5L441,140.5L441,159.123L383.571,178.167L326.143,172.016L268.714,172.184L211.286,167.971L39,141.09Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L211.286,140.5L268.714,140.5L326.143,140.5L383.571,140.5L441,140.5L441,109.069L383.571,110.586L326.143,107.636L268.714,110.164L211.286,5L39,54.633Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L211.286,140.5L268.714,140.5L326.143,140.5L383.571,140.5L441,140.5L441,163.168L383.571,178.167L326.143,172.016L268.714,172.184L211.286,167.971L39,141.09Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
@@ -1236,6 +1236,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-6.8, 10)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-8.5, 11)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
